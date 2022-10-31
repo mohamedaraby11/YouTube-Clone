@@ -1,6 +1,6 @@
 # YouTube CLone
 ## By Js Mastery channel
 ### Tools Used 
-Ract Js 
-Mui Material 
-Raoid Api
+1- Ract Js 
+2 -Mui Material 
+2- Rapid Api
